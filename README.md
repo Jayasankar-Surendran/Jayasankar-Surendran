@@ -140,3 +140,15 @@ I am a **Network Engineer** with 8+ years of experience designing, implementing,
 <p align="center">
   <i>"Security and high availability are not optional — they are fundamental."</i>
 </p>
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayasankar-Surendran/Jayasankar-Surendran/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayasankar-Surendran/Jayasankar-Surendran/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Jayasankar-Surendran/Jayasankar-Surendran/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
