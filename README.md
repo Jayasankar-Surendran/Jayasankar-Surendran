@@ -268,8 +268,11 @@ I am a **Network Engineer** with 8+ years of experience designing, implementing,
 | LTE Access Network Simulation | IJLTET, Vol. 2, Issue 4 | Jul 2013 |
 
 ---
+## 🌍 Languages
 
+🇬🇧 English — Fluent &nbsp;|&nbsp; 🇩🇪 German — Professional Working &nbsp;|&nbsp; 🇮🇳 Hindi — Fluent &nbsp;|&nbsp; 🇮🇳 Malayalam — Native
 
+---
 ## ⚡️ Stats
 <br>
 <div align=center>
@@ -277,15 +280,6 @@ I am a **Network Engineer** with 8+ years of experience designing, implementing,
   <img width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasankar-Surendran&theme=transparent&hide_border=false&border_radius=5&locale=en" />
 </div>
 <hr>
-
-## 🌍 Languages
-
-🇬🇧 English — Fluent &nbsp;|&nbsp; 🇩🇪 German — Professional Working &nbsp;|&nbsp; 🇮🇳 Hindi — Fluent &nbsp;|&nbsp; 🇮🇳 Malayalam — Native
-
----
-
-<p align="center">
-  <i>"Security and high availability are not
 
 ## 🐍 My Contributions
 
