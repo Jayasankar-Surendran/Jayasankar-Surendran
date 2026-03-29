@@ -140,43 +140,9 @@ I am a **Network Engineer** with 8+ years of experience designing, implementing,
 ## ⚡️ Stats
 <br>
 <div align=center>
-
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=Jayasankar-Surendran&show_icons=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-stats-extended.vercel.app/api?username=Jayasankar-Surendran&show_icons=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width=390 src="https://github-stats-extended.vercel.app/api?username=Jayasankar-Surendran&show_icons=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true" alt="Jayasankar-Surendran's GitHub Stats" />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jayasankar-Surendran&theme=dark&hide_border=true&border_radius=10&locale=en"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jayasankar-Surendran&hide_border=true&border_radius=10&locale=en"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasankar-Surendran&hide_border=true&border_radius=10&locale=en" alt="Jayasankar-Surendran's Streak" />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Jayasankar-Surendran&layout=donut&hide=css&langs_count=8&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Jayasankar-Surendran&layout=donut&hide=css&langs_count=8&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width=325 src="https://github-stats-extended.vercel.app/api/top-langs?username=Jayasankar-Surendran&layout=donut&hide=css&langs_count=8&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Jayasankar-Surendran's Most Used Languages" />
-  </picture>
-
+  <img width=390 src="https://github-stats-extended.vercel.app/api?username=Jayasankar-Surendran&theme=transparent&count_private=true&show_icons=true&rank_icon=github&include_all_commits=true&locale=en" alt="Jayasankar-Surendran's GitHub Stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=Jayasankar-Surendran&theme=transparent&hide_border=true&border_radius=10&locale=en&custom_title=Jayasankar's%20GitHub%20Streak" alt="Jayasankar-Surendran's Streak" />
+  <img width=325 src="https://github-stats-extended.vercel.app/api/top-langs?username=Jayasankar-Surendran&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&custom_title=Most%20Used%20Languages" alt="Jayasankar-Surendran's Most Used Languages" />
 </div>
 <hr>
 
