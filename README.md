@@ -137,9 +137,17 @@ I am a **Network Engineer** with 8+ years of experience designing, implementing,
 
 ---
 
-<p align="center">
-  <i>"Security and high availability are not optional — they are fundamental."</i>
-</p>
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Jayasankar-Surendran's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Jayasankar-Surendran's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Jayasankar-Surendran's Most Used Languages" />
+</div>
+
+<hr>
 
 ## 🐍 My Contributions
 
@@ -152,3 +160,7 @@ I am a **Network Engineer** with 8+ years of experience designing, implementing,
 </div>
 
 <hr>
+---
+<p align="center">
+  <i>"Security and high availability are not optional — they are fundamental."</i>
+</p>
