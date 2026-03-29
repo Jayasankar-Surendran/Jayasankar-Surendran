@@ -274,7 +274,7 @@ I am a **Network Engineer** with 8+ years of experience designing, implementing,
 <br>
 <div align=center>
   <img width=390 src="https://github-stats-extended.vercel.app/api?username=Jayasankar-Surendran&theme=transparent&count_private=true&show_icons=true&rank_icon=github&include_all_commits=true&locale=en" alt="Jayasankar-Surendran's GitHub Stats" />
-  <img width=408 src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasankar-Surendran&theme=transparent&hide_border=false&border_radius=5&locale=en" />
+  <img width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasankar-Surendran&theme=transparent&hide_border=false&border_radius=5&locale=en" />
 </div>
 <hr>
 
